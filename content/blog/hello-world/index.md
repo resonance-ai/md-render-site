@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lobortis, libero s
 
 - Feature 1
 - Feature 2
-- Feature 3
+- Feature 3 
 
 Pellentesque vitae lacus pharetra, ornare sapien ut, tincidunt sapien. Duis vulputate nulla sed dictum lacinia. Nulla facilisi. Integer malesuada efficitur bibendum. Integer sit amet luctus ipsum. Ut in tellus eget augue laoreet facilisis. Sed et massa sit amet ante luctus lobortis.
 
